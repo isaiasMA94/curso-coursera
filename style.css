@@ -1,0 +1,8 @@
+h1, h2{
+    color: purple;
+    background-color: greenyellow;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
