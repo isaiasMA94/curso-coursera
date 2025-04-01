@@ -1,6 +1,8 @@
 h1, h2{
     color: purple;
     background-color: greenyellow;
+    border: solid thin black;
+
 }
 table, th, td{
     border: 2px solid black;
