@@ -1,15 +1,25 @@
+body{
+    color: rgb(255, 106, 0);
+    background-color: rgb(213, 245, 2);
+    }
+    
 h1, h2{
-    color: purple;
-    background-color: greenyellow;
-    border: solid thin black;
+    color: rgb(28, 1, 28);
+    background-color: rgb(255, 0, 0);
+    border: solid thin rgb(0, 0, 0);
 
 }
 table, th, td{
-    border: 2px solid black;
+    border: 2px solid rgb(2, 57, 255);
     border-collapse: collapse;
 }
-{
-    justify-content: center;
-    cursor: pointer;
-
+p{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    border: solid thin rgb(0, 0, 0);
+}
+a{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 0, 0);
+    border: solid thin rgb(0, 0, 0);
 }
